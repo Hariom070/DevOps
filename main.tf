@@ -5,10 +5,10 @@ resource "azurerm_resource_group" "RG" {
 
 resource "azurerm_resource_group" "RG" {
   name     = "hari-rg1"
-  location = "West Europe"
+  location = "eastasia"
 }
 
 resource "azurerm_resource_group" "RG" {
   name     = "hari-rg1"
-  location = "West us"
+  location = "West Europe"
 }
